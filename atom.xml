@@ -5,7 +5,7 @@
   <subtitle><![CDATA[愿这世如童话]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-07-05T23:25:40.544Z</updated>
+  <updated>2015-07-05T23:31:05.288Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -16,18 +16,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[start]]></title>
+    <title></title>
     <link href="http://yoursite.com/2015/07/06/start/"/>
     <id>http://yoursite.com/2015/07/06/start/</id>
-    <published>2015-07-05T23:25:40.544Z</published>
-    <updated>2015-07-05T23:25:40.544Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/Ch2SoAv.png" alt=""><br>其实本来也写过一个博客.碍于域名备案了,有一些需要记录的东西不能存放了..感谢github&amp;gitcafe&amp;coding&amp;七牛(排名不分先后)..当然还有百度上很多的关于搭建静态页面的教程.. </p>
+    <published>2015-07-05T23:31:05.288Z</published>
+    <updated>2015-07-05T23:31:05.288Z</updated>
+    <content type="html"><![CDATA[<p>title: start<br>tags: </p>
+<pre><code>-<span class="ruby"> <span class="constant">NyKO</span>
+</span>-<span class="ruby"> hexo</span>
+</code></pre><hr>
+<p><img src="http://i.imgur.com/Ch2SoAv.png" alt=""><br>其实本来也写过一个博客.碍于域名备案了,有一些需要记录的东西不能存放了..感谢github&amp;gitcafe&amp;coding&amp;七牛(排名不分先后)..当然还有百度上很多的关于搭建静态页面的教程.. </p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p><img src="http://i.imgur.com/Ch2SoAv.png" alt=""><br>其实本来也写过一个博客.碍于域名备案了,有一些需要记录的东西不能存放了..感谢github&amp;gitcafe&amp;coding&amp;七牛(排名不分先后).]]>
+    <![CDATA[<p>title: start<br>tags: </p>
+<pre><code>-<span class="ruby"> <span class="constant">NyKO</span>
+</span>-<span class="ruby"> hexo</span>
+</c]]>
     </summary>
-    
-      <category term="NyKO" scheme="http://yoursite.com/tags/NyKO/"/>
     
   </entry>
   
