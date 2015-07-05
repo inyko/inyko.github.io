@@ -5,7 +5,7 @@
   <subtitle><![CDATA[愿这世如童话]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-07-05T22:36:22.659Z</updated>
+  <updated>2015-07-05T23:25:40.544Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -19,28 +19,60 @@
     <title><![CDATA[start]]></title>
     <link href="http://yoursite.com/2015/07/06/start/"/>
     <id>http://yoursite.com/2015/07/06/start/</id>
-    <published>2015-07-05T22:36:22.659Z</published>
-    <updated>2015-07-05T22:36:22.659Z</updated>
-    <content type="html"><![CDATA[<p>tags: haha</p>
-<p><img src="http://i.imgur.com/Ch2SoAv.png" alt=""><br>其实本来也写过一个博客.碍于域名备案了,有一些需要记录的东西不能存放了..感谢github&amp;gitcafe..当然还有百度上很多的关于搭建静态页面的教程.. </p>
+    <published>2015-07-05T23:25:40.544Z</published>
+    <updated>2015-07-05T23:25:40.544Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/Ch2SoAv.png" alt=""><br>其实本来也写过一个博客.碍于域名备案了,有一些需要记录的东西不能存放了..感谢github&amp;gitcafe&amp;coding&amp;七牛(排名不分先后)..当然还有百度上很多的关于搭建静态页面的教程.. </p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>tags: haha</p>
-<p><img src="http://i.imgur.com/Ch2SoAv.png" alt=""><br>其实本来也写过一个博客.碍于域名备案了,有一些需要记录的东西不能存放了..感谢github&amp;gitcafe..当然还有百度上]]>
+    <![CDATA[<p><img src="http://i.imgur.com/Ch2SoAv.png" alt=""><br>其实本来也写过一个博客.碍于域名备案了,有一些需要记录的东西不能存放了..感谢github&amp;gitcafe&amp;coding&amp;七牛(排名不分先后).]]>
     </summary>
+    
+      <category term="NyKO" scheme="http://yoursite.com/tags/NyKO/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[cafe_hexo_2]]></title>
-    <link href="http://yoursite.com/2015/07/06/cafe-hexo-2/"/>
-    <id>http://yoursite.com/2015/07/06/cafe-hexo-2/</id>
-    <published>2015-07-05T22:35:55.000Z</published>
-    <updated>2015-07-05T22:35:55.878Z</updated>
+    <title><![CDATA[hexo搭建博客<一>:hexo配置]]></title>
+    <link href="http://yoursite.com/2015/07/06/cafe-hexo-3/"/>
+    <id>http://yoursite.com/2015/07/06/cafe-hexo-3/</id>
+    <published>2015-07-05T23:18:36.699Z</published>
+    <updated>2015-07-05T23:18:36.699Z</updated>
     <content type="html"></content>
     <summary type="html">
     
     </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[hexo搭建博客<一>:hexo本地初始化]]></title>
+    <link href="http://yoursite.com/2015/07/06/cafe-hexo-2/"/>
+    <id>http://yoursite.com/2015/07/06/cafe-hexo-2/</id>
+    <published>2015-07-05T23:18:35.534Z</published>
+    <updated>2015-07-05T23:18:35.534Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[hexo搭建博客<一>:hexo简介]]></title>
+    <link href="http://yoursite.com/2015/07/06/cafe-hexo-1/"/>
+    <id>http://yoursite.com/2015/07/06/cafe-hexo-1/</id>
+    <published>2015-07-05T23:15:44.137Z</published>
+    <updated>2015-07-05T23:15:44.137Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
   </entry>
   
