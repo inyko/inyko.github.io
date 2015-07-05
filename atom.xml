@@ -1,25 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   
-  <title><![CDATA[愿这世如童话]]></title>
-  <subtitle><![CDATA[hell0]]></subtitle>
+  <title><![CDATA[NyKO' BLOG]]></title>
+  <subtitle><![CDATA[愿这世如童话]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-07-05T04:01:10.536Z</updated>
+  <updated>2015-07-05T16:22:50.699Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
     <name><![CDATA[NyKO]]></name>
-    
+    <email><![CDATA[im@nyko.me]]></email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[start]]></title>
+    <link href="http://yoursite.com/2015/07/06/start/"/>
+    <id>http://yoursite.com/2015/07/06/start/</id>
+    <published>2015-07-05T16:22:50.699Z</published>
+    <updated>2015-07-05T16:22:50.699Z</updated>
+    <content type="html"><![CDATA[<p>date: 2015-07-05 23:06:56<br>tags: 伊始</p>
+<p><img src="http://i.imgur.com/Ch2SoAv.png" alt=""><br>其实本来也写过一个博客.碍于域名备案了,有一些需要记录的东西不能存放了..感谢github&amp;gitcafe..当然还有百度上很多的关于搭建静态页面的教程..</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>date: 2015-07-05 23:06:56<br>tags: 伊始</p>
+<p><img src="http://i.imgur.com/Ch2SoAv.png" alt=""><br>其实本来也写过一个博客.碍于域名备案了,有一些需要记录的东西不能存放了..感谢]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <link href="http://yoursite.com/2015/07/05/hello-world/"/>
     <id>http://yoursite.com/2015/07/05/hello-world/</id>
-    <published>2015-07-05T04:01:10.536Z</published>
+    <published>2015-07-05T15:22:05.516Z</published>
     <updated>2015-07-05T04:01:10.536Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
