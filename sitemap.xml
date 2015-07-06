@@ -2,8 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/instagram/index.html</loc>
+    <lastmod>2015-07-06T16:39:40.946Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2015/07/06/start/</loc>
-    <lastmod>2015-07-05T23:31:05.288Z</lastmod>
+    <lastmod>2015-07-06T14:41:46.315Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2015/07/06/hello-world/</loc>
+    <lastmod>2015-07-06T14:34:44.857Z</lastmod>
   </url>
   
   <url>
@@ -19,11 +29,6 @@
   <url>
     <loc>http://yoursite.com/2015/07/06/cafe-hexo-1/</loc>
     <lastmod>2015-07-05T23:15:44.137Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2015/07/06/hello-world/</loc>
-    <lastmod>2015-07-05T22:18:13.026Z</lastmod>
   </url>
   
 </urlset>
