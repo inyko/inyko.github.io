@@ -5,7 +5,7 @@
   <subtitle><![CDATA[愿这世界如童话]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-07-06T14:41:46.315Z</updated>
+  <updated>2015-07-05T23:15:44.137Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -14,6 +14,21 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[hexo搭建博客<一>:hexo简介]]></title>
+    <link href="http://yoursite.com/2015/07/07/cafe-hexo-1/"/>
+    <id>http://yoursite.com/2015/07/07/cafe-hexo-1/</id>
+    <published>2015-07-06T23:39:00.283Z</published>
+    <updated>2015-07-05T23:15:44.137Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[start]]></title>
@@ -86,21 +101,6 @@
     <id>http://yoursite.com/2015/07/06/cafe-hexo-2/</id>
     <published>2015-07-05T23:18:35.534Z</published>
     <updated>2015-07-05T23:18:35.534Z</updated>
-    <content type="html"></content>
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[hexo搭建博客<一>:hexo简介]]></title>
-    <link href="http://yoursite.com/2015/07/06/cafe-hexo-1/"/>
-    <id>http://yoursite.com/2015/07/06/cafe-hexo-1/</id>
-    <published>2015-07-05T23:15:44.137Z</published>
-    <updated>2015-07-05T23:15:44.137Z</updated>
     <content type="html"></content>
     <summary type="html">
     
